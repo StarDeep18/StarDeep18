@@ -5,11 +5,11 @@
 
 I'm a curious and passionate developer who loves to build, explore, and contribute to meaningful projects through code. I enjoy working with a variety of technologies including:
 
-- 💻 **Java** – OOP concepts and backend logic  
-- 🔧 **C & C Programming** – Core programming and systems understanding
-- 🐍 **Python (Basics)** – Scripting, problem-solving, and automation fundamentals
-- 🌐 **HTML & CSS** – Frontend interfaces and responsive designs  
-- 🧠 **Modula-3** – Open-source collaboration and experimentation  
+- 💻 **Java** - OOP concepts and backend logic  
+- 🔧 **C & C Programming** - Core programming and systems understanding
+- 🐍 **Python (Basics)** - Scripting, problem-solving, and automation fundamentals
+- 🌐 **HTML & CSS** - Frontend interfaces and responsive designs  
+- 🧠 **Modula-3** - Open-source collaboration and experimentation  
 
 ---
 
@@ -33,7 +33,7 @@ I'm a curious and passionate developer who loves to build, explore, and contribu
 
 ### 💬 About Me
 
-I believe the best way to learn is through hands-on experience—whether that’s coding, tackling challenging puzzles, or diving deep into how systems operate. Fueled by curiosity and steady progress, I’m committed to growing my skills step by step, balancing practical problem-solving with understanding the core principles behind the technology. ***One Step at a time***🚀
+I believe the best way to learn is through hands-on experience-whether that’s coding, tackling challenging puzzles or diving deep into how systems operate. Fueled by curiosity and steady progress, I’m committed to growing my skills step by step, balancing practical problem-solving with understanding the core principles behind the technology. ***One Step at a time***🚀
 
 ---
 
