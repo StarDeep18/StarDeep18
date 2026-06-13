@@ -54,3 +54,8 @@ I'm always open to ideas, feedback, and collaboration. Feel free to reach out or
 📫 **Reach me at**: [GitHub](https://github.com/StarDeep18)
 
 > “Consistency is more important than intensity.” – A mantra I try to live by 😊
+
+ ## 🐍 My Contribution Snake
+
+![GitHub Contribution Snake](https://githubusercontent.com)
+
