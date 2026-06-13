@@ -3,7 +3,7 @@
 
 🎯 **Tech Enthusiast | Lifelong Learner | Open-Source Contributor**
 
-I'm a curious and passionate developer who loves to build, explore, and contribute to meaningful projects through code. I enjoy working with a variety of technologies including:
+I'm a curious and passionate developer who loves to build, explore, and contribute to meaningful projects through code. I enjoy working with a variety of technologies, including:
 
 - 💻 **Java** - OOP concepts and backend logic  
 - 🔧 **C & C Programming** - Core programming and systems understanding
@@ -55,7 +55,8 @@ I'm always open to ideas, feedback, and collaboration. Feel free to reach out or
 
 > “Consistency is more important than intensity.” – A mantra I try to live by 😊
 
- ## 🐍 My Contribution Snake
-
-![GitHub Contribution Snake](https://githubusercontent.com)
-
+ <div align="center">
+  
+   ![snake gif](https://github.com/StarDeep18/StarDeep18/blob/output/github-contribution-grid-snake-dark.svg)
+   
+ </div>
