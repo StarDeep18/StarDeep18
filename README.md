@@ -132,6 +132,14 @@ const deepak = {
 
 ---
 
+<div align="center">
+  
+   ![snake gif](https://github.com/StarDeep18/StarDeep18/blob/output/github-contribution-grid-snake-dark.svg)
+   
+</div>
+
+---
+
 ## 🏆 Trophy Wall
 
 <div align="center">
@@ -170,14 +178,6 @@ const deepak = {
 </div>
 
 ---
-
-<div align="center">
-  
-   ![snake gif](https://github.com/StarDeep18/StarDeep18/blob/output/github-contribution-grid-snake-dark.svg)
-   
-</div>
-
- ---
 
 ## 🎓 Education
 
