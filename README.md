@@ -136,15 +136,19 @@ const deepak = {
   
    ![snake gif](https://github.com/StarDeep18/StarDeep18/blob/output/github-contribution-grid-snake-dark.svg)
    
-</div>
+ </div>
 
----
+ ---
 
-## 🏆 Trophy Wall
+## 🏆 Coding Profiles
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=StarDeep18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+| Platform | Handle | Stats |
+|:--------:|:-------|:------|
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | StarDeep18 | 250+ problems · Arrays · Graphs · DP · Trees · Greedy |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | StarDeep18 | ⭐⭐⭐⭐⭐ Java · ⭐⭐⭐ Python · ⭐⭐⭐ SQL · ⭐⭐⭐ C |
+| ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | StarDeep18 | Active Competitive Programmer |
 
 </div>
 
