@@ -37,7 +37,7 @@ const deepak = {
     "Firebase", "Docker"
   ],
 
-  currentlyLearning: [
+  currentlyExploring: [
     "System Design & Distributed Systems",
     "Advanced DSA & Competitive Programming",
     "AI/ML Integration in Web Apps"
@@ -160,8 +160,8 @@ const deepak = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**SideFlow**](https://github.com/StarDeep18) | React · TypeScript · Tailwind CSS · Chrome Extension APIs · Firebase | Productivity Chrome extension that transforms WhatsApp Web into a workspace dashboard; smart sidebar categorization, real-time sync, persistent multi-session storage, and optimized React component architecture |
-| [**EcoSaur**](https://github.com/StarDeep18) | React · FastAPI · AI APIs · Computer Vision · Firebase | AI-assisted food analysis platform; OCR + image processing pipelines to extract ingredient data from packaged food labels and recommend healthier homemade alternatives |
+| [**SideFlow**](https://github.com/StarDeep18/SideFlow) | React · TypeScript · Tailwind CSS · Chrome Extension APIs · Firebase | Productivity Chrome extension that transforms WhatsApp Web into a workspace dashboard; smart sidebar categorization, real-time sync, persistent multi-session storage, and optimized React component architecture |
+| [**EcoSaur**](https://github.com/StarDeep18/EcoSaur) | React · FastAPI · AI APIs · Computer Vision · Firebase | AI-assisted food analysis platform; OCR + image processing pipelines to extract ingredient data from packaged food labels and recommend healthier homemade alternatives |
 
 </div>
 
@@ -173,7 +173,7 @@ const deepak = {
 
 | | Achievement | Details |
 |:-:|:------------|:--------|
-| 🥉 | **Kyberastra Cybersecurity Hackathon — 3rd Place** | Competed against multiple student teams; built an Agentic AI-based cybersecurity solution; won ₹5,000 cash prize |
+| 🥉 | **Kyberastra Cybersecurity Hackathon - 3rd Place** | Competed against multiple student teams; built an Agentic AI-based cybersecurity solution; won ₹5,000 cash prize |
 | 💻 | **LeetCode 250+ Problems Solved** | Arrays · Graphs · Dynamic Programming · Trees · Greedy Algorithms |
 | ⭐ | **HackerRank 5-Star Java** | Top-rated badge in Java problem solving |
 | ⭐ | **HackerRank Multi-Star** | 3-Star Python · 3-Star SQL · 3-Star C |
@@ -183,20 +183,7 @@ const deepak = {
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:-----|:------|
-| B.Tech — Computer Science & Engineering | Amrita Vishwa Vidyapeetham, Chennai | 2024 – 2028 | GPA: 8.6 |
-| Senior Secondary (CBSE) | Tagore Public School, Salem | 2024 | — |
-
-</div>
-
----
-
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
 ```
 🧱 System Design       → Distributed Systems, Microservices, CAP Theorem
