@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Deepak+Bharathwaj+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;React+%2B+Node+%2B+FastAPI+Enthusiast;250%2B+LeetCode+Problems+Solved;Cybersecurity+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Deepak+Bharathwaj+%F0%9F%91%8B;Full-Stack+Developer+%7C+Problem+Solver;React+%2B+Node+%2B+FastAPI+Enthusiast;44%2B+LeetCode+Problems+Solved;Cybersecurity+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 
 </div>
 
@@ -173,7 +173,7 @@ const deepak = {
 
 | | Achievement | Details |
 |:-:|:------------|:--------|
-| 🥉 | **Kyberastra Cybersecurity Hackathon - 3rd Place** | Competed against multiple student teams; built an Agentic AI-based cybersecurity solution; won ₹5,000 cash prize |
+| 🥉 | **Kyberastra Cybersecurity Hackathon - 3rd Place** | Built an Agentic AI-based solution and secured 3rd place, winning ₹5,000 in prize money |
 | 💻 | **LeetCode 250+ Problems Solved** | Arrays · Graphs · Dynamic Programming · Trees · Greedy Algorithms |
 | ⭐ | **HackerRank 5-Star Java** | Top-rated badge in Java problem solving |
 | ⭐ | **HackerRank Multi-Star** | 3-Star Python · 3-Star SQL · 3-Star C |
