@@ -60,8 +60,7 @@ const deepak = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://shields.io)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
@@ -77,6 +76,7 @@ const deepak = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://shields.io)
 
 **Databases**
 
@@ -119,7 +119,7 @@ const deepak = {
 | Platform | Handle | Stats |
 |:--------:|:-------|:------|
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | StarDeep18 | Arrays · Graphs · DP · Trees · Greedy |
-| ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | StarDeep18 | ⭐⭐⭐⭐⭐ Java · ⭐⭐⭐ Python · ⭐⭐⭐ SQL · ⭐⭐⭐ C |
+| ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | StarDeep18 | ⭐⭐⭐⭐ Java · ⭐⭐⭐ Python · ⭐⭐⭐ SQL · ⭐⭐⭐ C |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | StarDeep18 | Active Competitive Programmer |
 
 </div>
@@ -146,7 +146,7 @@ const deepak = {
 | | Achievement | Details |
 |:-:|:------------|:--------|
 | 🥉 | **Kyberastra Cybersecurity Hackathon - 3rd Place** | Built an Agentic AI-based solution and secured 3rd place, winning ₹5,000 in prize money |
-| 💻 | **LeetCode 250+ Problems Solved** | Arrays · Graphs · Dynamic Programming · Trees · Greedy Algorithms |
+| 💻 | **LeetCode 44+ Problems Solved** | Arrays · Graphs · Dynamic Programming · Trees · Greedy Algorithms |
 | ⭐ | **HackerRank 5-Star Java** | Top-rated badge in Java problem solving |
 | ⭐ | **HackerRank Multi-Star** | 3-Star Python · 3-Star SQL · 3-Star C |
 | 🍴 | **CodeChef Active Participant** | Regular competitive programming contests |
